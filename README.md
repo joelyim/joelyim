@@ -11,12 +11,11 @@ My journey in Information Systems has led me to develop a passion for Informatio
 
 | **Skill**                                     | **Associated Project**        |
 |-----------------------------------------------|-------------------------------|
-| Configure NAT Network and Static IPs          | Active Directory Project      |
-| Install and Configure Splunk for Log Analysis | Active Directory Project      |
-| Perform Security Testing Using Kali Linux     | Active Directory Project      |
-| Simulate Attacks with Atomic Red Team         | Active Directory Project      |
-| Analyze Telemetry Using MITRE ATT&CK Framework | Active Directory Project     |
-
+| Configure NAT Network and Static IPs          | [Active Directory Project](https://github.com/joelyim/Active-Directory/tree/main) |
+| Install and Configure Splunk for Log Analysis | [Active Directory Project](https://github.com/joelyim/Active-Directory/tree/main) |
+| Perform Security Testing Using Kali Linux     | [Active Directory Project](https://github.com/joelyim/Active-Directory/tree/main) |
+| Simulate Attacks with Atomic Red Team         | [Active Directory Project](https://github.com/joelyim/Active-Directory/tree/main) |
+| Analyze Telemetry Using MITRE ATT&CK Framework | [Active Directory Project](https://github.com/joelyim/Active-Directory/tree/main) |
 
 ## Tools
 <a href="https://www.kali.org" target="_blank">
@@ -45,4 +44,5 @@ My journey in Information Systems has led me to develop a passion for Informatio
 
 
 ## Projects
-- Active Directory Project (Home Lab) 
+- [Active Directory Project (Home Lab)](https://github.com/joelyim/Active-Directory/tree/main)
+
