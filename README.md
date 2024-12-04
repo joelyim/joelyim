@@ -11,7 +11,6 @@ My journey in Information Systems has led me to develop a passion for Informatio
 
 | **Skill**                                     | **Associated Project**        |
 |-----------------------------------------------|-------------------------------|
-| Install and Configure Active Directory        | Active Directory Project      |
 | Configure NAT Network and Static IPs          | Active Directory Project      |
 | Install and Configure Splunk for Log Analysis | Active Directory Project      |
 | Perform Security Testing Using Kali Linux     | Active Directory Project      |
