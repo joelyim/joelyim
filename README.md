@@ -18,14 +18,10 @@ My journey in Information Systems has led me to develop a passion for Informatio
 | DATA SECURITY                                 | <a href="https://github.com/RaineJohnson/Data-Security-Application.git">School Database Security</a>|
 
 ## Tools
-
-<a href="https://www.atomicredteam.io" target="_blank">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"/>
-</a>
 <a href="https://www.kali.org" target="_blank">
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </a>
-<a href="https://www.oracle.com/virtualization/" target="_blank">
+<a href="https://www.virtualbox.org/" target="_blank">
   <img src="https://img.shields.io/badge/-Oracle%20VM-F80000?&style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle VM"/>
 </a>
 <a href="https://ubuntu.com" target="_blank">
