@@ -41,6 +41,3 @@ My journey in Information Systems has led me to develop a passion for Informatio
 
 
 ## Projects
-
-<a  <br/>
-<a </a>
