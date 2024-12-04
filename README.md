@@ -26,15 +26,8 @@ My journey in Information Systems has led me to develop a passion for Informatio
 </a>
 <a href="https://ubuntu.com" target="_blank">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-</a>
-<a href="https://www.tenable.com/products/nessus" target="_blank">
-  <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
-</a>
-<a href="https://nmap.org" target="_blank">
-  <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-</a>
-<a href="https://www.metasploit.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Metasploit-000000?&style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+<a href="https://ubuntu.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 </a>
 
 
