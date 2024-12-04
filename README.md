@@ -5,7 +5,7 @@ I am an undergraduate at the University of Washington Bothell with a profound in
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity and people skills. I'm setting my sights on a security engineer job, where I can strive to implement secure solutions to problems while also having the people skills to manage teams efficiently and effectively.
+My journey in Information Systems has led me to develop a passion for Information Technoloogy and Cybersecurity. I'm setting my sights on a Help Desk position where I can develop hands on experience in troubleshooting, customer support, and system management. I am eager to apply my knowledge of networking, security protocols, and IT infrastructure while continuously expanding my skills in real-world environments.
 
 ## Skills
 
