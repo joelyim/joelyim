@@ -9,13 +9,15 @@ My journey in Information Systems has led me to develop a passion for Informatio
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-|                                               |  |
-|                                               |  |
-|                                               |  |
-|                                               |  |
-|                                               |   |
+| **Skill**                                     | **Associated Project**        |
+|-----------------------------------------------|-------------------------------|
+| Install and Configure Active Directory        | Active Directory Project      |
+| Configure NAT Network and Static IPs          | Active Directory Project      |
+| Install and Configure Splunk for Log Analysis | Active Directory Project      |
+| Perform Security Testing Using Kali Linux     | Active Directory Project      |
+| Simulate Attacks with Atomic Red Team         | Active Directory Project      |
+| Analyze Telemetry Using MITRE ATT&CK Framework | Active Directory Project     |
+
 
 ## Tools
 <a href="https://www.kali.org" target="_blank">
