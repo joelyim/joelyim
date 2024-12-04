@@ -22,13 +22,16 @@ My journey in Information Systems has led me to develop a passion for Informatio
 <a href="https://www.kali.org" target="_blank">
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </a>
+<a href="https://github.com/redcanaryco/atomic-red-team" target="_blank">
+  <img src="https://img.shields.io/badge/Atomic%20Red%20Team-red?style=for-the-badge&logo=github&logoColor=white" alt="Atomic Red Team"/>
+</a>
 <a href="https://www.virtualbox.org/" target="_blank">
-  <img src="https://img.shields.io/badge/-%20VirtualBox-0000FF?&style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Oracle VirtualBox"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Oracle VirtualBox"/>
 </a>
 <a href="https://ubuntu.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 <a href="https://www.splunk.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=&logoColor=white%22%20alt=%22Splunk)"/>
+  <img src="https://img.shields.io/badge/-Splunk-black?style=for-the-badge&logo=Splunk&logoColor=white&labelColor=f9481e" alt="Splunk"/>
 </a>
 
 
@@ -37,7 +40,7 @@ My journey in Information Systems has led me to develop a passion for Informatio
 ## Certifications
 
 <a href="https://www.comptia.org/" target="_blank">
-  <img src="https://img.shields.io/badge/-CompTIA A+-cf1b1b?&style=for-the-badge&logo=CompTIA&logoColor=red%22%20alt=%22ISC2"/>
+  <img src="https://img.shields.io/badge/CompTIA%20A%2B-cf1b1b?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Certification"/>
 </a>
 
 
