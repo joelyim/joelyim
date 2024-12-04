@@ -26,8 +26,8 @@ My journey in Information Systems has led me to develop a passion for Informatio
 </a>
 <a href="https://ubuntu.com" target="_blank">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-<a href="https://ubuntu.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+<a href="https://www.splunk.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=&logoColor=white%22%20alt=%22Splunk)"/>
 </a>
 
 
