@@ -1,5 +1,5 @@
 # Hi There! I'm Joel Yim
-<a href="https://www.linkedin.com/in/raine-johnson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/joelyim1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an undergraduate at the University of Washington Bothell with a profound interest in technology and cybersecurity, with a dedication to solving complex security problems.
 
