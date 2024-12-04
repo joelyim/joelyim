@@ -11,11 +11,11 @@ My journey in Information Systems has led me to develop a passion for Informatio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SESSION AUTHENTICATION                        | <a href="https://github.com/RaineJohnson/Session-Authentication.git">Session Authentication Using Node.js</a>|
-| EXPRESS SESSION MANAGEMENT                    | <a href="https://github.com/RaineJohnson/Express-Session-Management.git">Securing An Express Application</a>|
-| OAUTH APPLICATION                             | <a href="https://github.com/RaineJohnson/OAuth-Through-GitHub.git">GitHub OAuth Application</a>|
-| MANAGING API KEYS AND FILES                   | <a href="https://github.com/RaineJohnson/Node-Env-Keys-Management.git">API Key and File Management</a>|
-| DATA SECURITY                                 | <a href="https://github.com/RaineJohnson/Data-Security-Application.git">School Database Security</a>|
+|                                               |  |
+|                                               |  |
+|                                               |  |
+|                                               |  |
+|                                               |   |
 
 ## Tools
 <a href="https://www.kali.org" target="_blank">
@@ -42,5 +42,5 @@ My journey in Information Systems has led me to develop a passion for Informatio
 
 ## Projects
 
-<a href="https://github.com/RaineJohnson/Authentication-with-passport.js.git">Authentication with Passport.js</a> <br/>
-<a href="https://github.com/RaineJohnson/Bcrypt-Authentication.git">Authentication using Bcrypt</a>
+<a  <br/>
+<a </a>
