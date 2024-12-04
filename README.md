@@ -35,8 +35,8 @@ My journey in Information Systems has led me to develop a passion for Informatio
 
 ## Certifications
 
-<a href="https://www.isc2.org" target="_blank">
-  <img src="https://img.shields.io/badge/-ISC2-007D74?&style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2"/>
+<a href="https://www.comptia.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-CompTIA+-cf1b1b?&style=for-the-badge&logo=CompTIA&logoColor=red%22%20alt=%22ISC2"/>
 </a>
 
 
