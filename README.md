@@ -1,11 +1,11 @@
 # Hi There! I'm Joel Yim
 <a href="https://www.linkedin.com/in/joelyim1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an undergraduate at the University of Washington Bothell with a profound interest in technology and cybersecurity, with a dedication to solving complex security problems.
+I am an undergraduate at the University of Washington Bothell with a profound interest in technology and cybersecurity and a dedication to solving complex security problems.
 
 ## Objective
 
-My journey in Information Systems has led me to develop a passion for Information Technoloogy and Cybersecurity. I'm setting my sights on a Help Desk position where I can develop hands on experience in troubleshooting, customer support, and system management. I am eager to apply my knowledge of networking, security protocols, and IT infrastructure while continuously expanding my skills in real-world environments.
+My journey in Information Systems has led me to develop a passion for Information technology and Cybersecurity. I'm setting my sights on a Help Desk position where I can develop hands-on experience in troubleshooting, customer support, and system management. I am eager to apply my knowledge of networking, security protocols, and IT infrastructure while continuously expanding my skills in real-world environments.
 
 ## Skills
 
