@@ -18,6 +18,9 @@ My journey in Information Systems has led me to develop a passion for Informatio
 | Analyze Telemetry Using MITRE ATT&CK Framework | [Active Directory Project](https://github.com/joelyim/Active-Directory/tree/main) |
 
 ## Tools
+<a href="https://www.postgresql.org/" target="_blank"> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> 
+</a> 
 <a href="https://www.kali.org" target="_blank"> <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/> </a> 
 <a href="https://github.com/redcanaryco/atomic-red-team" target="_blank"> <img src="https://img.shields.io/badge/Atomic%20Red%20Team-red?style=for-the-badge&logo=github&logoColor=white" alt="Atomic Red Team"/> </a> 
 <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="Oracle VirtualBox"/> </a>
