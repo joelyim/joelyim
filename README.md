@@ -41,7 +41,21 @@ My journey in Information Systems has led me to develop a passion for Informatio
 <a href="https://ubuntu.com" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/> </a> 
 <a href="https://www.splunk.com/" target="_blank"> <img src="https://img.shields.io/badge/-Splunk-black?style=for-the-badge&logo=Splunk&logoColor=white&labelColor=f9481e" alt="Splunk"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
-
+<a href="https://wazuh.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Wazuh-5A2D82?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh"/>
+</a>
+<a href="https://strangebee.com/thehive/" target="_blank">
+  <img src="https://img.shields.io/badge/The%20Hive-191919?style=for-the-badge&logo=github&logoColor=white" alt="The Hive"/>
+</a>
+<a href="https://shuffler.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Shuffle-0D47A1?style=for-the-badge&logo=github&logoColor=white" alt="Shuffle SOAR"/>
+</a>
+<a href="https://attack.mitre.org/" target="_blank">
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-FF5500?style=for-the-badge&logo=github&logoColor=white" alt="MITRE ATT&CK"/>
+</a>
+<a href="https://sqrx.com/" target="_blank">
+  <img src="https://img.shields.io/badge/SquareX-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="SquareX"/>
+</a>
 
 
 
