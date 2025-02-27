@@ -14,10 +14,10 @@ My journey in Information Systems has led me to develop a passion for Informatio
 | **Skill**                         | **Associated Project**               |
 |-------------------------------------|---------------------------------------|
 | Security Orchestration and Automation (SOAR) | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Project) |
-| Threat Detection and Incident Response        | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Lab) |
-| Case Management with The Hive       | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Lab) |
-| Log Analysis with Wazuh SIEM       | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Lab) |
-| Automating Alerts Using Shuffle    | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Lab) |
+| Threat Detection and Incident Response        | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Project) |
+| Case Management with The Hive       | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Project) |
+| Log Analysis with Wazuh SIEM       | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Project) |
+| Automating Alerts Using Shuffle    | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Project) |
 
 ---
 
@@ -65,6 +65,6 @@ My journey in Information Systems has led me to develop a passion for Informatio
 
 
 ## Projects
-- [SOC Automation Lab (Home Lab)](https://github.com/joelyim/SOC-Automation/tree/main) 
+- [SOC Automation Lab (Home Lab)](https://github.com/joelyim/SOC-Automation-Project) 
 - [Active Directory Security Operations (Home Lab)](https://github.com/joelyim/Active-Directory/tree/main)
 
