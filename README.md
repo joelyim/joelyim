@@ -1,21 +1,35 @@
 # Hi There! I'm Joel Yim
 <a href="https://www.linkedin.com/in/joelyim1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an undergraduate at the University of Washington Bothell with a profound interest in technology and cybersecurity and a dedication to solving complex security problems.
+I am an undergraduate at the University of Washington Bothell with a profound interest in Cybersecurity and IT and a strong dedication in solving complex security problems.
 
 ## Objective
 
-My journey in Information Systems has led me to develop a passion for Information technology and Cybersecurity. I'm setting my sights on a Help Desk position where I can develop hands-on experience in troubleshooting, customer support, and system management. I am eager to apply my knowledge of networking, security protocols, and IT infrastructure while continuously expanding my skills in real-world environments.
+My journey in Information Systems has led me to develop a passion for Information Technology and Cybersecurity. I’m setting my sights on a SOC Analyst position where I can develop hands-on experience in threat detection, incident response, and security operations. I am eager to apply my knowledge of networking, security protocols, and IT infrastructure while continuously expanding my skills in real-world environments.
+
 
 ## Skills
 
+### Active Directory Project
 | **Skill**                                     | **Associated Project**        |
 |-----------------------------------------------|-------------------------------|
 | Configure NAT Network and Static IPs          | [Active Directory Project](https://github.com/joelyim/Active-Directory/tree/main) |
 | Install and Configure Splunk for Log Analysis | [Active Directory Project](https://github.com/joelyim/Active-Directory/tree/main) |
-| Perform Security Testing Using Kali Linux     | [Active Directory Project](https://github.com/joelyim/Active-Directory/tree/main) |
 | Simulate Attacks with Atomic Red Team         | [Active Directory Project](https://github.com/joelyim/Active-Directory/tree/main) |
 | Analyze Telemetry Using MITRE ATT&CK Framework | [Active Directory Project](https://github.com/joelyim/Active-Directory/tree/main) |
+
+---
+
+### SOC Automation Lab
+| **Skill**                         | **Associated Project**               |
+|-------------------------------------|---------------------------------------|
+| Security Orchestration and Automation (SOAR) | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Lab) |
+| Threat Detection and Incident Response        | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Lab) |
+| Case Management with The Hive       | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Lab) |
+| Log Analysis with Wazuh SIEM       | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Lab) |
+| Automating Alerts Using Shuffle    | [SOC Automation Lab](https://github.com/joelyim/SOC-Automation-Lab) |
+
+
 
 ## Tools
 <a href="https://www.postgresql.org/" target="_blank"> 
