@@ -105,7 +105,7 @@ My journey in Information Systems has led me to develop a passion for Informatio
   - Implemented automation scripts for vulnerability remediation
   - Achieved 80% vulnerability reduction including 100% of critical vulnerabilities
   - Managed stakeholder communications and change control
-- [View Project →](https://github.com/joelyim/Vulnerability-Management-Project)
+- [View Project →](https://github.com/joelyim/Vulnerability-Management)
 
 ### 🔍 SOC Automation Lab
 - **Technologies**: Wazuh SIEM, The Hive, Shuffle SOAR
