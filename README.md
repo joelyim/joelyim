@@ -1,11 +1,7 @@
 # Hi There! I'm Joel Yim
 <a href="https://www.linkedin.com/in/joelyim1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an undergraduate at the University of Washington Bothell with a profound interest in Cybersecurity and IT and a strong dedication to solving complex security problems.
-
-## Objective
-
-My journey in Information Systems has led me to develop a passion for Information Technology and Cybersecurity. I'm setting my sights on a SOC Analyst position where I can acquire hands-on experience in threat detection, incident response, and security operations. I am eager to apply my networking, security protocols, and IT infrastructure knowledge while continuously expanding my skills in real-world environments.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please check them out and see my work on enhancing security operations and processes!
 
 ## Core Competencies
 
