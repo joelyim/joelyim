@@ -93,6 +93,16 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Projects
 
+### 🕵️ Threat Hunting: Unauthorized TOR Usage Detection
+- **Technologies**: Microsoft Defender for Endpoint, KQL (Kusto Query Language), Windows 10, Azure VMs
+- **Achievements**:
+  - Created a comprehensive threat hunting workflow to detect unauthorized TOR browser usage
+  - Developed custom KQL queries for detecting TOR-related file, process, and network activities
+  - Identified and analyzed TOR-related indicators of compromise (IoCs)
+  - Established a detailed chronological event timeline of suspicious activity
+  - Generated a professional threat hunting report with remediation actions
+- [View Project →](https://github.com/joelyim/threat-hunting-tor)
+
 ### 🛡️ Vulnerability Management Program Implementation
 - **Technologies**: Tenable, PowerShell, Windows Server, Azure VMs
 - **Achievements**:
