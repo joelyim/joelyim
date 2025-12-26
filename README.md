@@ -3,23 +3,59 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please check them out and see my work on enhancing security operations and processes!
 
-## Core Competencies
+## Projects
 
-### Security Operations & Defense 🛡️
-- **Vulnerability Management** (Advanced): Developed complete vulnerability lifecycle management program with policy creation, scanning, and remediation processes
-- **Threat Detection & Analysis** (Advanced): Implemented automated detection workflows using Wazuh SIEM
-- **Incident Response** (Intermediate): Created playbooks and automation with Shuffle SOAR
-- **Security Monitoring** (Advanced): Deployed and configured Splunk for log analysis and security telemetry collection
+### AI-Driven Phishing: Adaptive Defense Strategies
+- **Technologies**: Python, Flask, Scikit-Learn, Pandas, Joblib, Machine Learning, Deep Learning, NLP
+- **Achievements**:
+  - Conducted comprehensive research on AI-based phishing detection techniques
+  - Developed and deployed a phishing detection model using Logistic Regression
+  - Created a web interface for real-time phishing email classification
+  - Analyzed and compared multiple ML models (Decision Tree, Random Forest, KNN, SVM)
+  - Evaluated DL and NLP approaches (CNN, RNN, Transformers, BERT) for phishing detection
+  - Implemented automated data processing and error handling systems
+  - Achieved insights into hybrid AI-human approaches for enhanced detection accuracy
+- [View Project →](https://github.com/joelyim/ai-phishing-detection)
 
-### Security Assessment & Testing 🔍
-- **Vulnerability Assessment** (Advanced): Conducted authenticated scanning and remediation prioritization using Tenable
-- **Security Testing** (Intermediate): Simulated attacks using Atomic Red Team to validate detection capabilities
-- **Network Security** (Intermediate): Configured secure network topologies with NAT and static IPs
+### Threat Hunting: Unauthorized TOR Usage Detection
+- **Technologies**: Microsoft Defender for Endpoint, KQL (Kusto Query Language), Windows 10, Azure VMs
+- **Achievements**:
+  - Created a comprehensive threat hunting workflow to detect unauthorized TOR browser usage
+  - Developed custom KQL queries for detecting TOR-related file, process, and network activities
+  - Identified and analyzed TOR-related indicators of compromise (IoCs)
+  - Established a detailed chronological event timeline of suspicious activity
+  - Generated a professional threat hunting report with remediation actions
+- [View Project →](https://github.com/joelyim/threat-hunting-tor)
 
-### Technical Implementation 🔧
-- **Windows Administration** (Advanced): Implemented secure configurations and remediation automation
-- **Scripting & Automation** (Advanced): Created PowerShell scripts for vulnerability remediation and security hardening
-- **Enterprise Security Architecture** (Intermediate): Designed SOC automation workflows integrating multiple security tools
+### Vulnerability Management Program Implementation
+- **Technologies**: Tenable, PowerShell, Windows Server, Azure VMs
+- **Achievements**:
+  - Developed comprehensive vulnerability management policy with remediation timelines
+  - Created a complete vulnerability assessment and remediation lifecycle
+  - Implemented automation scripts for vulnerability remediation
+  - Achieved 80% vulnerability reduction including 100% of critical vulnerabilities
+  - Managed stakeholder communications and change control
+- [View Project →](https://github.com/joelyim/Vulnerability-Management)
+
+### SOC Automation Lab
+- **Technologies**: Wazuh SIEM, The Hive, Shuffle SOAR
+- **Achievements**:
+  - Built end-to-end security operations automation workflow
+  - Configured Wazuh SIEM for comprehensive log analysis
+  - Implemented case management through The Hive
+  - Created automated alert handling with Shuffle SOAR
+  - Developed detection rules for common attack patterns
+- [View Project →](https://github.com/joelyim/SOC-Automation-Project)
+
+### Active Directory Security Operations Lab
+- **Technologies**: Windows Server, Splunk, Atomic Red Team, MITRE ATT&CK
+- **Achievements**:
+  - Configured secure Active Directory environment with NAT networking
+  - Implemented Splunk for comprehensive security monitoring
+  - Simulated realistic attacks using Atomic Red Team
+  - Applied MITRE ATT&CK framework for threat analysis
+  - Created detection rules for common AD attack techniques
+- [View Project →](https://github.com/joelyim/Active-Directory/tree/main)
 
 ## Technical Skills
 
@@ -87,51 +123,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <div align="center">
 <a href="https://www.comptia.org/" target="_blank">
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-cf1b1b?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Certification"/>
+</a>
+<a href="https://www.comptia.org/" target="_blank">
   <img src="https://img.shields.io/badge/CompTIA%20A%2B-cf1b1b?style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA A+ Certification"/>
 </a>
 </div>
-
-## Projects
-
-### 🕵️ Threat Hunting: Unauthorized TOR Usage Detection
-- **Technologies**: Microsoft Defender for Endpoint, KQL (Kusto Query Language), Windows 10, Azure VMs
-- **Achievements**:
-  - Created a comprehensive threat hunting workflow to detect unauthorized TOR browser usage
-  - Developed custom KQL queries for detecting TOR-related file, process, and network activities
-  - Identified and analyzed TOR-related indicators of compromise (IoCs)
-  - Established a detailed chronological event timeline of suspicious activity
-  - Generated a professional threat hunting report with remediation actions
-- [View Project →](https://github.com/joelyim/threat-hunting-tor)
-
-### 🛡️ Vulnerability Management Program Implementation
-- **Technologies**: Tenable, PowerShell, Windows Server, Azure VMs
-- **Achievements**:
-  - Developed comprehensive vulnerability management policy with remediation timelines
-  - Created a complete vulnerability assessment and remediation lifecycle
-  - Implemented automation scripts for vulnerability remediation
-  - Achieved 80% vulnerability reduction including 100% of critical vulnerabilities
-  - Managed stakeholder communications and change control
-- [View Project →](https://github.com/joelyim/Vulnerability-Management)
-
-### 🔍 SOC Automation Lab
-- **Technologies**: Wazuh SIEM, The Hive, Shuffle SOAR
-- **Achievements**:
-  - Built end-to-end security operations automation workflow
-  - Configured Wazuh SIEM for comprehensive log analysis
-  - Implemented case management through The Hive
-  - Created automated alert handling with Shuffle SOAR
-  - Developed detection rules for common attack patterns
-- [View Project →](https://github.com/joelyim/SOC-Automation-Project)
-
-### 🔒 Active Directory Security Operations Lab
-- **Technologies**: Windows Server, Splunk, Atomic Red Team, MITRE ATT&CK
-- **Achievements**:
-  - Configured secure Active Directory environment with NAT networking
-  - Implemented Splunk for comprehensive security monitoring
-  - Simulated realistic attacks using Atomic Red Team
-  - Applied MITRE ATT&CK framework for threat analysis
-  - Created detection rules for common AD attack techniques
-- [View Project →](https://github.com/joelyim/Active-Directory/tree/main)
 
 <!-- Footer -->
 <div align="center">
