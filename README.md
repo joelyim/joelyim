@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **Categories**: Web Exploitation, Forensics (PCF)
 - **Description**: Detailed writeups of CTF challenges including JWT algorithm confusion attacks, client-side validation bypasses, and various encoding/decoding challenges.
 - [View Writeups →](https://github.com/joelyim/GrayHats-CTF-Writeups)
-- 
+  
 ## Projects
 
 ### AI-Driven Phishing: Adaptive Defense Strategies
