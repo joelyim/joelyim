@@ -3,58 +3,39 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please check them out and see my work on enhancing security operations and processes!
 
+
+## CTF Writeups
+
+### GrayHats CTF Challenge Solutions
+- **Categories**: Web Exploitation, Forensics (PCF)
+- **Description**: Detailed writeups of CTF challenges including JWT algorithm confusion attacks, client-side validation bypasses, and various encoding/decoding challenges.
+- [View Writeups →](https://github.com/joelyim/GrayHats-CTF-Writeups)
+- 
 ## Projects
 
 ### AI-Driven Phishing: Adaptive Defense Strategies
-- **Technologies**: Python, Flask, Scikit-Learn, Pandas, Joblib, Machine Learning, Deep Learning, NLP
-- **Achievements**:
-  - Conducted comprehensive research on AI-based phishing detection techniques
-  - Developed and deployed a phishing detection model using Logistic Regression
-  - Created a web interface for real-time phishing email classification
-  - Analyzed and compared multiple ML models (Decision Tree, Random Forest, KNN, SVM)
-  - Evaluated DL and NLP approaches (CNN, RNN, Transformers, BERT) for phishing detection
-  - Implemented automated data processing and error handling systems
-  - Achieved insights into hybrid AI-human approaches for enhanced detection accuracy
+- **Technologies**: Python, Flask, Scikit-Learn, Machine Learning, NLP
+- **Description**: Developed and deployed a phishing detection model using ML/DL techniques. Created a web interface for real-time email classification and analyzed multiple AI approaches including BERT and transformers.
 - [View Project →](https://github.com/joelyim/ai-phishing-detection)
 
 ### Threat Hunting: Unauthorized TOR Usage Detection
-- **Technologies**: Microsoft Defender for Endpoint, KQL (Kusto Query Language), Windows 10, Azure VMs
-- **Achievements**:
-  - Created a comprehensive threat hunting workflow to detect unauthorized TOR browser usage
-  - Developed custom KQL queries for detecting TOR-related file, process, and network activities
-  - Identified and analyzed TOR-related indicators of compromise (IoCs)
-  - Established a detailed chronological event timeline of suspicious activity
-  - Generated a professional threat hunting report with remediation actions
+- **Technologies**: Microsoft Defender for Endpoint, KQL
+- **Description**: Created comprehensive threat hunting workflow using custom KQL queries to detect TOR browser usage. Analyzed IoCs and established event timelines with remediation actions.
 - [View Project →](https://github.com/joelyim/threat-hunting-tor)
 
 ### Vulnerability Management Program Implementation
-- **Technologies**: Tenable, PowerShell, Windows Server, Azure VMs
-- **Achievements**:
-  - Developed comprehensive vulnerability management policy with remediation timelines
-  - Created a complete vulnerability assessment and remediation lifecycle
-  - Implemented automation scripts for vulnerability remediation
-  - Achieved 80% vulnerability reduction including 100% of critical vulnerabilities
-  - Managed stakeholder communications and change control
+- **Technologies**: Tenable, PowerShell, Windows Server
+- **Description**: Implemented complete vulnerability management lifecycle with automation scripts. Achieved 80% vulnerability reduction including 100% of critical vulnerabilities.
 - [View Project →](https://github.com/joelyim/Vulnerability-Management)
 
 ### SOC Automation Lab
 - **Technologies**: Wazuh SIEM, The Hive, Shuffle SOAR
-- **Achievements**:
-  - Built end-to-end security operations automation workflow
-  - Configured Wazuh SIEM for comprehensive log analysis
-  - Implemented case management through The Hive
-  - Created automated alert handling with Shuffle SOAR
-  - Developed detection rules for common attack patterns
+- **Description**: Built end-to-end security operations automation workflow with automated alert handling and case management.
 - [View Project →](https://github.com/joelyim/SOC-Automation-Project)
 
 ### Active Directory Security Operations Lab
 - **Technologies**: Windows Server, Splunk, Atomic Red Team, MITRE ATT&CK
-- **Achievements**:
-  - Configured secure Active Directory environment with NAT networking
-  - Implemented Splunk for comprehensive security monitoring
-  - Simulated realistic attacks using Atomic Red Team
-  - Applied MITRE ATT&CK framework for threat analysis
-  - Created detection rules for common AD attack techniques
+- **Description**: Configured secure AD environment with comprehensive security monitoring. Simulated realistic attacks and created detection rules for common AD attack techniques.
 - [View Project →](https://github.com/joelyim/Active-Directory/tree/main)
 
 ## Technical Skills
