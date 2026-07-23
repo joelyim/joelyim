@@ -35,5 +35,4 @@
 ---
 
 ## Certifications
-
-<img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals%20AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/CompTIA%20Security%2B-cf1b1b?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/CompTIA%20A%2B-cf1b1b?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA%20Security%2B-cf1b1b?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/CompTIA%20A%2B-cf1b1b?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/CompTIA%20Network%2B-cf1b1b?style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Jamf%20Pro%20Associate-000000?style=for-the-badge&logo=jamf&logoColor=white" />
