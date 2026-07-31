@@ -570,11 +570,3 @@ Logged into a different domain-joined workstation as `test test` and mapped the 
 *Successfully mapped `\\DC-01\Shares` as a network drive from a different domain-joined PC, logged in as `test test` — confirms group-based NTFS permissions are enforced correctly over the network.*
 
 ---
-
-## Notes / Not Yet Placed
-
-A screenshot of a Qualtrics survey/directory dashboard was included in the first batch but doesn't correspond to anything in this homelab (Proxmox/AD/Terraform) writeup, so it was left out. Let me know if it belongs to a different project.
-
-All 17 screenshots from the second batch were placed above — into the GPO/logon-banner walkthrough (Step 5) and a new "Git init → API token → `terraform apply` → first boot" walkthrough under the Proxmox + Terraform section, including the `boot failed: not a bootable disk` moment and how it was resolved.
-
-More screenshots can still come in a follow-up batch — send them over and I'll slot them into the matching section above.
