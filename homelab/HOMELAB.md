@@ -509,3 +509,72 @@ With the ISO in place and the VM's `cdrom` correctly pointed at it, the console 
 *Success — VM 104 now boots into the Kali Linux installer menu, confirming the Terraform-provisioned VM and its attached ISO are working end-to-end.*
 
 ---
+
+## 5. File Server: NTFS & Share Permissions (Domain-Integrated)
+
+Loosely following a standard AD file-server lab (adapted with my own group/folder names instead of the generic HR/IT/Finance/Public example): stand up a shared data folder on the domain controller, control access through AD security groups rather than individual users, and verify effective permissions from a separate domain-joined client.
+
+**Concept:** access to a network share is gated by two layers — **share permissions** (checked first, when connecting over the network) and **NTFS permissions** (checked second, on the files/folders themselves). Where they overlap, the more restrictive of the two wins. So the real access control lives in NTFS permissions tied to AD security groups; share permissions are generally left wide open (`Everyone` → Full Control) and NTFS does the actual gatekeeping.
+
+### Step 1 — Create the shared folder structure
+
+On `UW-DC01`, created `C:\Shares` with department subfolders. Rather than the generic `HR / IT / Finance / Public` example, I used names that matched my existing OU/group structure: `CAS-Deanery`, `CAS-IT`, and `Finance`.
+
+### Step 2 — Create AD security groups
+
+In `dsa.msc`, created a security group for each folder (`CAS-Deanery`, `CAS-IT`, `Finance`) so permissions get assigned to groups, not individual accounts — group membership becomes the single source of truth for access, and adding/removing a user's access is just an AD group membership change instead of editing NTFS ACLs directly.
+
+![Active Directory Users and Computers showing the CAS-Deanery, CAS-IT, and Finance security groups](screenshots/37-ad-security-groups-list.png)
+*The three security groups (`CAS-Deanery`, `CAS-IT`, `Finance`) created in AD, one per shared folder.*
+
+### Step 3 — Create a test user and assign group membership
+
+Instead of creating three separate named users (one per department, as the reference lab suggests), I created a single generic `test test` account and used it to validate one folder's permission chain end-to-end.
+
+![New Object - User dialog creating the test test account](screenshots/36-test-user-created.png)
+*Creating the `test test` account used to validate the `CAS-IT` share.*
+
+`test test` was then added to the `CAS-IT` group via the user's **Member Of** tab:
+
+![Select Groups dialog adding the test test user to the CAS-IT group](screenshots/38-test-user-added-to-casit-group.png)
+*Adding `test test` to the `CAS-IT` security group — this group membership is what will actually grant folder access.*
+
+### Step 4 — Lock down NTFS permissions on the folder
+
+For the `CAS-IT` folder specifically:
+
+1. **Properties → Security → Advanced** to open Advanced Security Settings.
+2. Since the folder was inheriting broad permissions from its parent (including a `Users (NETID\Users)` entry giving all domain users Read & Execute), inheritance had to be broken before those default entries could be edited.
+3. Clicked **Disable inheritance**, then chose **Convert inherited permissions into explicit permissions on this object** — this preserves the existing entries as a starting point (rather than wiping them) so nothing gets locked out, including admin access.
+
+![Block Inheritance dialog choosing to convert inherited permissions into explicit permissions](screenshots/39-casit-convert-explicit-permissions.png)
+*Converting inherited permissions to explicit ones on `CAS-IT` — required before the broad `Users` entry can be safely edited or removed.*
+
+4. With the permissions now explicit and editable, the general `Users (NETID\Users)` entries were removed, leaving only the `CAS-IT` group, `SYSTEM`, `Administrators`, and `CREATOR OWNER` — i.e., only the intended group (plus the accounts Windows needs for admin/system access) can reach the folder.
+
+![Advanced Security Settings for CAS-IT with the Users group selected for removal](screenshots/40-casit-remove-inherited-users-group.png)
+*Removing the general `Users` group from `CAS-IT`'s permission list — access is now scoped to the `CAS-IT` security group only.*
+
+### Step 5 — Share the parent folder
+
+`C:\Shares` was shared at the network level (Sharing tab → Advanced Sharing), with share-level permissions left permissive (`Everyone` → Full Control) since NTFS is doing the real access control per-subfolder — this is the standard pattern described above (share permissions as a loose outer gate, NTFS as the actual lock).
+
+![File Explorer showing the C:\Shares folder path with CAS-Deanery, CAS-IT, and Finance subfolders](screenshots/41-shares-folder-structure-cdrive.png)
+*The shared `C:\Shares` folder on `DC-01`, containing `CAS-Deanery`, `CAS-IT`, and `Finance`.*
+
+### Step 6 — Verify from a separate domain-joined client
+
+Logged into a different domain-joined workstation as `test test` and mapped the share (`\\DC-01\Shares`) as a network drive. Since `test test` is a member of `CAS-IT`, the folder is visible and accessible — confirming the whole chain (AD group membership → explicit NTFS ACL → share) is working end-to-end.
+
+![File Explorer on a separate client showing the mapped Z: drive to \\DC-01 with the Shares folders visible](screenshots/42-mapped-drive-verification-client.png)
+*Successfully mapped `\\DC-01\Shares` as a network drive from a different domain-joined PC, logged in as `test test` — confirms group-based NTFS permissions are enforced correctly over the network.*
+
+---
+
+## Notes / Not Yet Placed
+
+A screenshot of a Qualtrics survey/directory dashboard was included in the first batch but doesn't correspond to anything in this homelab (Proxmox/AD/Terraform) writeup, so it was left out. Let me know if it belongs to a different project.
+
+All 17 screenshots from the second batch were placed above — into the GPO/logon-banner walkthrough (Step 5) and a new "Git init → API token → `terraform apply` → first boot" walkthrough under the Proxmox + Terraform section, including the `boot failed: not a bootable disk` moment and how it was resolved.
+
+More screenshots can still come in a follow-up batch — send them over and I'll slot them into the matching section above.
